@@ -72,6 +72,8 @@ The trained model is evaluated using a test dataset to measure its performance a
 After successful evaluation, the model is deployed into a production environment. Continuous monitoring is essential to track its performance over time, address potential issues, and implement updates or fine-tuning based on changing requirements or data trends.
 
 ---
+---
+---
 
  # Facebook Comment Sentiment Analysis
 
@@ -167,6 +169,8 @@ ii. **Drift Handling**: Regular retraining of the model to adapt to evolving sen
 iii. **Feedback Loop**: The system should integrate feedback for improvement.
 
 --- 
+---
+---
 
 # Google Review Sentiment Analysis
 
